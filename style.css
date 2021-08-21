@@ -1,0 +1,35 @@
+/* simple background color*/
+
+body {
+	background-color: #f5f5be;
+}
+
+.upper-btns {
+	background: transparent;
+	padding: 10px 5px;
+}
+
+/*hover on button*/
+.upper-btns:hover {
+	background: rgba(27, 27, 27);
+	color: white;
+}
+
+h4 {
+	line-height: 10px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#apply-btn {
+	padding: 10px 15px;
+	border-radius: 5px;
+}
+
+/*footer section for total price*/
+
+footer {
+	background-color: #d4d4d2;
+	height: 100px;
+    padding-top: 40px;
+}
